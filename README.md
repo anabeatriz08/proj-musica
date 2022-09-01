@@ -8,15 +8,14 @@ isso, os números desses dois botões são somados e, então, é tocada
 a música correspondente ao número da soma, conforme a relação
 abaixo:
 
-0 – MEIO DIA
-1 – ROCK NO SERTÃO
-2 – SAGA DE UM VAQUEIRO
-3 – BOTA PEGADO PAREA
-4 – PONTO FINAL
-5 – LUZ CÂMERA AÇÃO
-
-6 – TOMA CONTA DE MIM
-7 – OLHA PRO CÉU
-8 – OLHINHOS DE FOGUEIRA
-9 - RANCHEIRA
-10 - AVOANTE
+0 – MEIO DIA;
+1 – ROCK NO SERTÃO;
+2 – SAGA DE UM VAQUEIRO;
+3 – BOTA PEGADO PAREA;
+4 – PONTO FINAL;
+5 – LUZ CÂMERA AÇÃO;
+6 – TOMA CONTA DE MIM;
+7 – OLHA PRO CÉU;
+8 – OLHINHOS DE FOGUEIRA;
+9 - RANCHEIRA;
+10 - AVOANTE.
