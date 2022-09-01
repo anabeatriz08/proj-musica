@@ -9,13 +9,13 @@ a música correspondente ao número da soma, conforme a relação
 abaixo:
 
 0 – MEIO DIA; <br />
-1 – ROCK NO SERTÃO;
-2 – SAGA DE UM VAQUEIRO;
-3 – BOTA PEGADO PAREA;
-4 – PONTO FINAL;
-5 – LUZ CÂMERA AÇÃO;
-6 – TOMA CONTA DE MIM;
-7 – OLHA PRO CÉU;
-8 – OLHINHOS DE FOGUEIRA;
-9 - RANCHEIRA;
+1 – ROCK NO SERTÃO; <br />
+2 – SAGA DE UM VAQUEIRO; <br />
+3 – BOTA PEGADO PAREA; <br />
+4 – PONTO FINAL; <br />
+5 – LUZ CÂMERA AÇÃO; <br />
+6 – TOMA CONTA DE MIM; <br />
+7 – OLHA PRO CÉU; <br />
+8 – OLHINHOS DE FOGUEIRA; <br />
+9 - RANCHEIRA; <br />
 10 - AVOANTE.
