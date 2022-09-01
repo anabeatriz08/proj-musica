@@ -8,7 +8,7 @@ isso, os números desses dois botões são somados e, então, é tocada
 a música correspondente ao número da soma, conforme a relação
 abaixo:
 
-0 – MEIO DIA;
+0 – MEIO DIA; <br />
 1 – ROCK NO SERTÃO;
 2 – SAGA DE UM VAQUEIRO;
 3 – BOTA PEGADO PAREA;
